@@ -38,7 +38,7 @@ A aquisição de notebooks permitirá maior **mobilidade**, **uso compartilhado 
 | Portas          | 2x USB 3.0, 1x HDMI | 3x USB-C, HDMI, RJ45 |
 
 **Imagem ilustrativa de modelo semelhante**:  
-![Notebook Educacional](img/notebook.jpg)  
+![Notebook Educacional](img/computadpr.webp)  
 *Figura 1 – Exemplo de notebook educacional moderno para uso escolar.*
 
 **Referências externas**:  
